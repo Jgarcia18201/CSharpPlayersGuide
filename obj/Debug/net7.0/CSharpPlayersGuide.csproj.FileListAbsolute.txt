@@ -1,0 +1,5 @@
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.csproj.AssemblyReference.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.AssemblyInfoInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.AssemblyInfo.cs
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.csproj.CoreCompileInputs.cache
