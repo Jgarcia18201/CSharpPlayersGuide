@@ -3,3 +3,13 @@ C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.Ge
 C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.AssemblyInfoInputs.cache
 C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.AssemblyInfo.cs
 C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.csproj.CoreCompileInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\bin\Debug\net7.0\CSharpPlayersGuide.exe
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\bin\Debug\net7.0\CSharpPlayersGuide.deps.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\bin\Debug\net7.0\CSharpPlayersGuide.runtimeconfig.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\bin\Debug\net7.0\CSharpPlayersGuide.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\bin\Debug\net7.0\CSharpPlayersGuide.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\refint\CSharpPlayersGuide.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\CSharpPlayersGuide.genruntimeconfig.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\obj\Debug\net7.0\ref\CSharpPlayersGuide.dll
