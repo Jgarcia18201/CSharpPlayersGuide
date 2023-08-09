@@ -1,0 +1,15 @@
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\bin\Debug\net7.0\Exercise1.exe
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\bin\Debug\net7.0\Exercise1.deps.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\bin\Debug\net7.0\Exercise1.runtimeconfig.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\bin\Debug\net7.0\Exercise1.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\bin\Debug\net7.0\Exercise1.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.csproj.AssemblyReference.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.AssemblyInfo.cs
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\refint\Exercise1.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\Exercise1.genruntimeconfig.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Exercise1\obj\Debug\net7.0\ref\Exercise1.dll
