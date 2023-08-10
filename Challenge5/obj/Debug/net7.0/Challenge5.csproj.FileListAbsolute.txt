@@ -1,0 +1,15 @@
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\bin\Debug\net7.0\Challenge5.exe
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\bin\Debug\net7.0\Challenge5.deps.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\bin\Debug\net7.0\Challenge5.runtimeconfig.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\bin\Debug\net7.0\Challenge5.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\bin\Debug\net7.0\Challenge5.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.csproj.AssemblyReference.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.AssemblyInfoInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.AssemblyInfo.cs
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.csproj.CoreCompileInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\refint\Challenge5.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\Challenge5.genruntimeconfig.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge5\obj\Debug\net7.0\ref\Challenge5.dll
