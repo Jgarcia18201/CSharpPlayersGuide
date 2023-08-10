@@ -1,0 +1,15 @@
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.csproj.AssemblyReference.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.AssemblyInfoInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.AssemblyInfo.cs
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.csproj.CoreCompileInputs.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\bin\Debug\net7.0\Challenge6.exe
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\bin\Debug\net7.0\Challenge6.deps.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\bin\Debug\net7.0\Challenge6.runtimeconfig.json
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\bin\Debug\net7.0\Challenge6.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\bin\Debug\net7.0\Challenge6.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\refint\Challenge6.dll
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.pdb
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\Challenge6.genruntimeconfig.cache
+C:\Users\jgarc\Desktop\CSharpPlayersGuide\Challenge6\obj\Debug\net7.0\ref\Challenge6.dll
