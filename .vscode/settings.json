@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "CSharpPlayersGuide.sln"
+    "dotnet.defaultSolution": "CSharpPlayersGuide.sln",
+    "sqltools.connections": []
 }
